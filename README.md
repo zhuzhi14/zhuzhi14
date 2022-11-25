@@ -1,4 +1,4 @@
-
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhi14&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
