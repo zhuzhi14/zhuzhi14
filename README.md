@@ -20,9 +20,17 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhi14&show_icons=true&theme=radical&hide=css,html,php,javascript)
 
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+
+
+<div>
+<a href="https://spotify-now-playing.billchen2k.vercel.app/now-playing?open">
+   <img align="right" src="https://spotify-now-playing.billchen2k.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+</div>
+
+<div>
+<p align="right"><code>🎵 Now playing on Spotify</code></p>
+</div>
 
 
 ### ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
