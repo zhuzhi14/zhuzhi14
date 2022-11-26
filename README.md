@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 24 November 2022
+From: 23 November 2022 - To: 25 November 2022
 
-Total Time: 2 mins
+Total Time: 1 hr 9 mins
 
-C#   2 mins          █████████████████████████   100.00 %
+C#   1 hr 9 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
