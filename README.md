@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 09 January 2023
+From: 23 November 2022 - To: 10 January 2023
 
-Total Time: 32 hrs 13 mins
+Total Time: 32 hrs 30 mins
 
-C#                        21 hrs 6 mins   ████████████████▒░░░░░░░░   65.52 %
-XAML                      3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Other                     2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+C#                        21 hrs 6 mins   ████████████████▒░░░░░░░░   64.94 %
+XAML                      3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Other                     2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
