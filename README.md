@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 11 January 2023
+From: 23 November 2022 - To: 12 January 2023
 
-Total Time: 36 hrs 3 mins
+Total Time: 38 hrs 5 mins
 
-C#                        21 hrs 52 mins  ███████████████▒░░░░░░░░░   60.67 %
-Other                     3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+C#                        22 hrs 30 mins  ██████████████▓░░░░░░░░░░   59.09 %
+Other                     3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
 ```
 
 <!--END_SECTION:waka-->
