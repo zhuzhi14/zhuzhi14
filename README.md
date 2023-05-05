@@ -16,6 +16,8 @@ Total Time: 82 hrs 14 mins
 C#                        48 hrs 45 mins  ██████████████▓░░░░░░░░░░   59.28 %
 XAML                      13 hrs 37 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
 Other                     5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Binary                    5 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+TypeScript                2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
