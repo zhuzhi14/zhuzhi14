@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 06 May 2023
+From: 23 November 2022 - To: 07 May 2023
 
-Total Time: 82 hrs 14 mins
+Total Time: 83 hrs 50 mins
 
-C#                        48 hrs 45 mins  ██████████████▓░░░░░░░░░░   59.28 %
-XAML                      13 hrs 37 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-Other                     5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Binary                    5 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-TypeScript                2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+C#                        48 hrs 45 mins  ██████████████▓░░░░░░░░░░   58.15 %
+XAML                      13 hrs 37 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+Other                     5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Binary                    5 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+PHP                       4 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
